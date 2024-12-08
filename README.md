@@ -1,4 +1,4 @@
-# App-Store_Data_Analysis - SQL Project
+# App Store Data Analysis - SQL Project
 
 ## Overview
 The App Store is a competitive marketplace for app developers, with millions of apps across various categories. This project focuses on analyzing a dataset of apps available in the App Store, sourced from Kaggle, to extract valuable insights that can guide aspiring app developers. The goal is to provide data-driven insights that inform decisions regarding app development, pricing strategies, and maximizing user ratings.
